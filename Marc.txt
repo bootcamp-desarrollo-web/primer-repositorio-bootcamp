@@ -1,0 +1,20 @@
+Me encanta Pokémon. Mi Pokémon de cada tipo:
+
+- Fuego: Charizard
+- Agua: Vaporeon
+- Planta: Leafeon
+- Volador: Swanna
+- Eléctrico: Pikachu y Yamper
+- Bicho: Beautifly
+- Tierra: Diglett
+- Normal: Eevee
+- Acero: Klink
+- Lucha: Lucario
+- Veneno:
+- Psíquico:
+- Siniestro: Umbreon
+- Hada: Sylveon
+- Dragón: Dragonite
+- Hielo: Glaceon
+- Roca: Onix
+- Fantasma: Gengar
